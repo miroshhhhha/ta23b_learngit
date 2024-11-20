@@ -13,3 +13,14 @@
 Answer 1
 #### Question 2
 Answer 2
+
+## Running Tests
+To run dev build:
+```bash
+  npm run dev
+```
+To run project use:
+```bash
+  npm run start
+```
+
